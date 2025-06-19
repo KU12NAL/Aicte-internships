@@ -1,0 +1,1 @@
+https://github.com/RGS-AI/AICTE_Internships/tree/main/2025/June_2025/Water_Quality_Prediction
